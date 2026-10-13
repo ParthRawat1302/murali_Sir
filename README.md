@@ -6,7 +6,7 @@ docs with images and files.
 
 Stack: Next.js 16 (App Router) · Supabase (Postgres + RLS, Auth, Storage, Realtime) · TipTap editor · Tailwind 4.
 
-Live: https://murali-ka-maal.vercel.app (class members only)
+Live: https://murali-sir.vercel.app/login (class members only)
 
 ## Requirements
 
